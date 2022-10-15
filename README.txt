@@ -1,6 +1,6 @@
 code-<!DOCTYPE html>
 <html>
-<body>we can write information..
+<body>we can write informations
 
 <h1>My First Heading</h1>
 <h2>My Second Heading</h2>
