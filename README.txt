@@ -1,4 +1,4 @@
-code-<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>we can write informations
 
