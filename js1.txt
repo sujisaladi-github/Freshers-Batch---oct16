@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>What Can JavaScript Do?</h2>
+<h2>What Can JavaScript Do???</h2>
 
 <p id="test demo">JavaScript can change the style of an HTML element.</p>
 
