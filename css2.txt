@@ -7,7 +7,7 @@ a multi-line
 comment */
 
 p {
-  color: blue;
+  color: red;
 } 
 </style>
 </head>
